@@ -34,7 +34,7 @@ function Login() {
           alt="Messenger"
         />
         <div className="login__text">
-          <h1>Bem-vindo ao Shanaia Messenger</h1>
+          <h1>Bem-vindo ao MSN 2.0</h1>
         </div>
         <Button onClick={signIn}>Logar com Google</Button>
       </div>

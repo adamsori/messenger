@@ -1,6 +1,8 @@
 {
   "projects": {
     "default": "wpp-mern-e34f9",
-    "whatsappB": "wpp-mern-e34f9"
-  }
+    "whatsappB": "wpp-mern-e34f9",
+    "wpp-mern-e34f9": "wpp-mern-e34f9"
+  },
+  "targets": {}
 }
